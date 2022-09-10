@@ -1,0 +1,26 @@
+			body{
+				border: darkslategray solid 8px
+			}
+			h1{
+				font-size: 35px;
+				text-decoration: underline;
+				color:black;
+			}
+			img{
+				float: right;
+				border: darkslategray solid 8px;
+				height: 300px;
+				width: 200px;
+			}
+			h2{
+				font-size: 28px;
+				color: darkslategray;
+				text-decoration: underline;
+			}
+			p{
+				font-size: 20px;
+			}
+			.divClass{
+				font-size: 20px;
+
+			}
